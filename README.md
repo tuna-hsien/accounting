@@ -6,7 +6,7 @@
 ## 🌐 專案連結
 * **Live Demo (作品部署連結):** [accounting-production-3a73.up.railway.app]
 * **GitHub Repository:** [https://github.com/tuna-hsien/accounting.git]
-* **AI Chat History (Prompt 紀錄):** [https://share.gemini.google/abbSG3TyR7oe]
+* **AI Chat History (Prompt 紀錄):** [https://share.gemini.google/abbSG3TyR7oe]、[https://claude.ai/share/075cd6e0-c212-49ab-a00f-0c38d6060414]
 
 ---
 
