@@ -4,9 +4,9 @@
 > 透過 AI Vibe Coding 在 3 小時內打造的「Java 後端 × H2 DB × 網頁前端 × Gemini AI」全端應用系統。
 
 ## 🌐 專案連結
-* **Live Demo (作品部署連結):** [請填入你的 Railway 網址，例如 https://accounting.up.railway.app]
-* **GitHub Repository:** [請填入你的 GitHub Repo 網址]
-* **AI Chat History (Prompt 紀錄):** [請填入你匯出的對話紀錄連結，或註明已上傳至 Moodle]
+* **Live Demo (作品部署連結):** [accounting-production-3a73.up.railway.app]
+* **GitHub Repository:** [https://github.com/tuna-hsien/accounting.git]
+* **AI Chat History (Prompt 紀錄):** [https://share.gemini.google/abbSG3TyR7oe]
 
 ---
 
